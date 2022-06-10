@@ -35,7 +35,7 @@ header > h1 {
 header > p {
     padding-top: 10px;
     padding-bottom: 50px;
-    
+    text-align: center;
 }
 a {
     color: white;
